@@ -1,5 +1,5 @@
 {
-  "name": "social-flyer",
+  "name": "socialflyer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Justin822/Social-Flyer.git"
+    "url": "git+https://github.com/Justin822/socialflyer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Justin822/Social-Flyer/issues"
+    "url": "https://github.com/Justin822/socialflyer/issues"
   },
-  "homepage": "https://github.com/Justin822/Social-Flyer#readme",
+  "homepage": "https://github.com/Justin822/socialflyer#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
